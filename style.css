@@ -1,0 +1,59 @@
+body{
+    background-image: url("file:///C:/Users/ADMIN/Pictures/pngtree-d-rendering-of-blue-digital-wireframe-waves-in-abstract-technological-design-image_3782283.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    width: 100%;
+    height:40px;
+    color: white;
+    padding-left: 800px;
+    padding-top: 40px;
+}
+p{
+    display: inline;
+    font-size: large;
+    font-size: 20px;
+    padding: 1%;
+
+}
+p:hover{
+    border-bottom: 1px white;
+    border-bottom-style:inset ;
+}
+#im{
+    padding: 0;
+    margin: 0;
+    position: fixed;
+}
+.box{
+    padding: 4px;
+    color:black;
+    background-color: white;
+    margin-right:20px ;
+    border-style: inset;
+    border-radius: 12px;
+    border-color: white;
+}
+#t1{
+    color: white;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    padding: 0%;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.t2{
+    color: rgb(158, 152, 152);
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding: 0%;
+    padding-left: 50px;
+    margin-right: 600px;
+    margin-top: 2%;
+}
+img{
+    border: 1px wheat;
+}
